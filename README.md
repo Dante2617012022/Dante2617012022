@@ -4,7 +4,7 @@
 
 Tafí Viejo, Tucumán, Argentina · Graduado en septiembre de 2026, Universidad del Gran Rosario.
 
-[Portfolio](https://dante2617012022.github.io/portfolio-web/) · [CV por orientación](https://dante2617012022.github.io/portfolio-web/#cv) · [LinkedIn](https://www.linkedin.com/in/dante-gabriel-balbuena-179963235/) · [Contacto](mailto:dantebalbuenaatar@gmail.com)
+[Portfolio](https://dante2617012022.github.io/portfolio-web/) · [Solicitar CV](https://www.linkedin.com/in/dante-gabriel-balbuena-179963235/) · [LinkedIn](https://www.linkedin.com/in/dante-gabriel-balbuena-179963235/) · [Contacto](mailto:dantebalbuenaatar@gmail.com)
 
 ## Qué aporto
 
