@@ -12,17 +12,33 @@ Más de cinco años en soporte de telecomunicaciones: diagnóstico remoto, docum
 
 Busco mi primera oportunidad en ciberseguridad, con foco en SOC e IAM. También considero AppSec, GRC y soporte de seguridad según las responsabilidades del puesto.
 
-## Proyectos y evidencia
+## Mis tres proyectos principales
 
-| Proyecto | Qué permite evaluar | Estado y acceso |
-|---|---|---|
-| **[Camdis Operations](https://github.com/Dante2617012022/portfolio-web/blob/main/docs/case-studies/camdis-operations-security.md)** | Autorización server-side, idempotencia, transacciones y correcciones auditables | Beta interna controlada; caso público sanitizado |
-| **[Camdis Commerce](https://github.com/Dante2617012022/portfolio-web/blob/main/docs/case-studies/camdis-commerce-security.md)** | Identidades, sesiones, reglas de negocio y controles DevSecOps | Piloto técnico; caso público sanitizado |
-| **[Chatbot con IA controlada](https://github.com/Dante2617012022/chatbot-hamburgueseria-v3)** | Validación, restricciones de IA, webhooks y pruebas | Código público; entorno controlado |
-| **[Plan Director Camdis](https://github.com/Dante2617012022/portfolio-web/blob/main/docs/case-studies/camdis-governance.md)** | Riesgos, continuidad y prioridades de implementación | Propuesta en desarrollo; resumen público |
-| **[Laboratorios UGR](https://github.com/Dante2617012022/Actividades-UGR-Ciberseguridad)** | Seguridad web y Linux, vulnerabilidades e informes | Práctica académica autorizada |
+### 1. ERP Camdis — seguridad e integridad operativa
 
-[Recorrido completo de evidencias](https://github.com/Dante2617012022/portfolio-web/blob/main/docs/PORTFOLIO_EVIDENCE_INDEX.md)
+Proyecto propio de producción e inventario: autorización en el servidor, reintentos que no duplican operaciones y correcciones que conservan el historial. Mi aporte abarca flujos, controles, pruebas y documentación.
+
+**Estado:** beta interna controlada. **Acceso:** caso de estudio público; código y entorno operativo privados.
+
+[Ver el caso del ERP](https://github.com/Dante2617012022/portfolio-web/blob/main/docs/case-studies/camdis-operations-security.md)
+
+### 2. E-commerce Camdis — identidad y seguridad de aplicaciones
+
+Proyecto aplicado de comercio electrónico con separación entre clientes y personal, autorización backend, protección de sesiones y validación de reglas de negocio.
+
+**Estado:** piloto técnico en entorno controlado; no se presenta como una tienda productiva terminada. **Acceso:** caso público; implementación operativa privada.
+
+[Ver el caso del e-commerce](https://github.com/Dante2617012022/portfolio-web/blob/main/docs/case-studies/camdis-commerce-security.md)
+
+### 3. Facultad — laboratorios y trabajos de ciberseguridad
+
+Trabajos de la Tecnicatura Universitaria en Ciberseguridad: seguridad web y Linux, desarrollo seguro, criptografía, riesgos y continuidad. La evidencia se presenta como práctica académica autorizada.
+
+[Explorar trabajos UGR](https://github.com/Dante2617012022/Actividades-UGR-Ciberseguridad) · [Hacking ético](https://github.com/Dante2617012022/Actividades-UGR-Ciberseguridad/tree/main/hacking-etico)
+
+### Evidencia complementaria
+
+[Chatbot con IA controlada](https://github.com/Dante2617012022/chatbot-hamburgueseria-v3) · [Plan Director Camdis](https://github.com/Dante2617012022/portfolio-web/blob/main/docs/case-studies/camdis-governance.md) · [Índice de evidencias](https://github.com/Dante2617012022/portfolio-web/blob/main/docs/PORTFOLIO_EVIDENCE_INDEX.md)
 
 ## Base técnica
 
