@@ -20,7 +20,7 @@ Proyecto propio de producción e inventario: autorización en el servidor, reint
 
 **Estado:** beta interna controlada. **Acceso:** caso de estudio público; código y entorno operativo privados.
 
-[Ver el caso del ERP](https://github.com/Dante2617012022/portfolio-web/blob/main/docs/case-studies/camdis-operations-security.md)
+[Ver el caso del ERP](https://github.com/Dante2617012022/camdis-erp-case-study)
 
 ### 2. E-commerce Camdis — identidad y seguridad de aplicaciones
 
@@ -28,7 +28,7 @@ Proyecto aplicado de comercio electrónico con separación entre clientes y pers
 
 **Estado:** piloto técnico en entorno controlado; no se presenta como una tienda productiva terminada. **Acceso:** caso público; implementación operativa privada.
 
-[Ver el caso del e-commerce](https://github.com/Dante2617012022/portfolio-web/blob/main/docs/case-studies/camdis-commerce-security.md)
+[Ver el caso del e-commerce](https://github.com/Dante2617012022/camdis-ecommerce-case-study)
 
 ### 3. Facultad — laboratorios y trabajos de ciberseguridad
 
