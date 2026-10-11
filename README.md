@@ -1,56 +1,43 @@
 # Dante Gabriel Balbuena Atar
 
-**Técnico Universitario en Ciberseguridad · SOC e IAM junior · Seguridad aplicada**
+**Técnico Universitario en Ciberseguridad · SOC Nivel 1 / Junior**
 
-Tafí Viejo, Tucumán, Argentina · Graduado en septiembre de 2026, Universidad del Gran Rosario.
+Graduado en septiembre de 2026 por la Universidad del Gran Rosario. Más de cinco años de experiencia en soporte de telecomunicaciones, diagnóstico, seguimiento de incidentes y escalamiento bajo SLA.
 
-[Portfolio](https://dante2617012022.github.io/portfolio-web/) · [Solicitar CV](https://www.linkedin.com/in/dante-gabriel-balbuena-179963235/) · [LinkedIn](https://www.linkedin.com/in/dante-gabriel-balbuena-179963235/) · [Contacto](mailto:dantebalbuenaatar@gmail.com)
+**Disponibilidad para viajar y relocalizarme en CABA · Trabajo presencial o híbrido.**
+Residencia actual: Tafí Viejo, Tucumán, Argentina.
 
-## Qué aporto
+[Portfolio](https://dante2617012022.github.io/portfolio-web/) · [Solicitar CV por email](mailto:dantebalbuenaatar@gmail.com?subject=Solicitud%20de%20CV%20SOC%20Junior) · [LinkedIn](https://www.linkedin.com/in/dante-gabriel-balbuena-179963235/)
 
-Más de cinco años en soporte de telecomunicaciones: diagnóstico remoto, documentación, seguimiento de casos y escalamiento. En Camdis desarrollo proyectos propios que conectan necesidades operativas con controles de acceso, integridad y trazabilidad.
+## Objetivo profesional
 
-Busco mi primera oportunidad en ciberseguridad, con foco en SOC e IAM. También considero AppSec, GRC y soporte de seguridad según las responsabilidades del puesto.
+Busco mi primera oportunidad en SOC L1, monitoreo u operaciones de seguridad. Actualmente practico análisis de alertas en mi laboratorio con Wazuh y Suricata: reviso telemetría, contexto y evidencia para documentar una decisión. Mi experiencia laboral previa es en soporte técnico; la práctica SOC corresponde a laboratorio.
 
-## Mis tres proyectos principales
+## Empezar por el Mini SOC
 
-### 1. ERP Camdis — seguridad e integridad operativa
+[Mini-SOC Lab](https://github.com/Dante2617012022/mini-soc-lab) reúne cuatro detecciones documentadas, pruebas controladas y respuesta temporal con rollback.
 
-Proyecto propio de producción e inventario: autorización en el servidor, reintentos que no duplican operaciones y correcciones que conservan el historial. Mi aporte abarca flujos, controles, pruebas y documentación.
+| Caso | Qué permite evaluar |
+|---|---|
+| [FIM y recuperación de telemetría](https://github.com/Dante2617012022/mini-soc-lab/blob/main/docs/detections/SOC-DET-002-fim-realtime-modification.md) | Diagnóstico de conectividad, integridad de archivos y clasificación de una alerta |
+| [Anomalía UDP controlada](https://github.com/Dante2617012022/mini-soc-lab/blob/main/docs/detections/SOC-DET-004-controlled-udp-rate-anomaly.md) | Prueba positiva/negativa y separación entre detección y contención |
+| [Respuesta temporal](https://github.com/Dante2617012022/mini-soc-lab/blob/main/docs/CHG-021.md) | Alcance limitado, timeout y recuperación documentada |
 
-**Estado:** beta interna controlada. **Acceso:** caso de estudio público; código y entorno operativo privados.
+Los casos son pruebas autorizadas en infraestructura propia. No se presentan como incidentes reales de clientes ni experiencia SOC productiva.
 
-[Ver el caso del ERP](https://github.com/Dante2617012022/camdis-erp-case-study)
+## Proyectos complementarios
 
-### 2. E-commerce Camdis — identidad y seguridad de aplicaciones
+- **[ERP Camdis](https://github.com/Dante2617012022/camdis-erp-case-study):** autorización, integridad y trazabilidad; muestra ejecutable y pruebas unitarias. Beta interna controlada.
+- **[E-commerce Camdis](https://github.com/Dante2617012022/camdis-ecommerce-case-study):** separación de contextos, permisos y sesiones; muestra pública con pruebas y dependencias simuladas. Piloto técnico.
+- **[Trabajos UGR](https://github.com/Dante2617012022/Actividades-UGR-Ciberseguridad):** formación en seguridad web, Linux, criptografía, riesgos y continuidad.
+- **[Chatbot y automatización](https://github.com/Dante2617012022/portfolio-web/blob/main/docs/PORTFOLIO_EVIDENCE_INDEX.md#automatizaci%C3%B3n-segura-e-ia):** caso público sanitizado de un proyecto privado.
 
-Proyecto aplicado de comercio electrónico con separación entre clientes y personal, autorización backend, protección de sesiones y validación de reglas de negocio.
+## Base técnica y aporte propio
 
-**Estado:** piloto técnico en entorno controlado; no se presenta como una tienda productiva terminada. **Acceso:** caso público; implementación operativa privada.
+- Experiencia laboral: diagnóstico remoto, registro y seguimiento de casos, SLA, escalamiento y comunicación con usuarios.
+- Laboratorio: Wazuh, Suricata, Linux Debian/Ubuntu, FIM, nftables, VirtualBox, YARA y consulta de hashes en VirusTotal.
+- Proyectos: requisitos, pruebas, diagnóstico, documentación y validación de controles; Git/GitHub, contenedores y CI. Python y JavaScript básicos.
+- El código y la configuración de proyectos pueden contar con asistencia de IA; distingo esa asistencia de mi trabajo en requisitos, pruebas, diagnóstico y validación.
+- Español nativo; inglés básico-intermedio orientado a lectura técnica.
 
-[Ver el caso del e-commerce](https://github.com/Dante2617012022/camdis-ecommerce-case-study)
-
-### 3. Facultad — laboratorios y trabajos de ciberseguridad
-
-Trabajos de la Tecnicatura Universitaria en Ciberseguridad: seguridad web y Linux, desarrollo seguro, criptografía, riesgos y continuidad. La evidencia se presenta como práctica académica autorizada.
-
-[Explorar trabajos UGR](https://github.com/Dante2617012022/Actividades-UGR-Ciberseguridad) · [Hacking ético](https://github.com/Dante2617012022/Actividades-UGR-Ciberseguridad/tree/main/hacking-etico)
-
-### Evidencia complementaria
-
-[Chatbot con IA controlada](https://github.com/Dante2617012022/chatbot-hamburgueseria-v3) · [Plan Director Camdis](https://github.com/Dante2617012022/portfolio-web/blob/main/docs/case-studies/camdis-governance.md) · [Índice de evidencias](https://github.com/Dante2617012022/portfolio-web/blob/main/docs/PORTFOLIO_EVIDENCE_INDEX.md)
-
-## Base técnica
-
-- **Proyectos propios:** Linux Debian, JavaScript, Node.js, SQL, Git, contenedores y GitHub Actions.
-- **Seguridad aplicada:** autenticación, autorización por roles, validación server-side, pruebas negativas y trazabilidad.
-- **Formación académica:** tratamiento de incidentes, riesgos, continuidad, desarrollo seguro, criptografía y hacking ético.
-- **Idiomas:** español nativo; inglés básico-intermedio orientado a lectura técnica.
-
-Distingo experiencia laboral, proyectos propios y laboratorios. No presento telecomunicaciones como empleo previo en un SOC ni los pilotos como plataformas productivas terminadas.
-
-## Cómo revisar mi trabajo
-
-Empezá por un caso de estudio: problema, riesgo, decisión y evidencia. Los proyectos privados se presentan mediante documentación sanitizada; no se publican datos operativos ni credenciales.
-
-[Política de divulgación pública](https://github.com/Dante2617012022/portfolio-web/blob/main/docs/PUBLIC_DISCLOSURE_POLICY.md)
+El CV se comparte por contacto profesional. Los sistemas privados se muestran mediante casos y muestras acotadas, sin publicar secretos ni datos operativos.
