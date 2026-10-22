@@ -4,10 +4,10 @@
 
 Graduado en septiembre de 2026 por la Universidad del Gran Rosario. Más de cinco años de experiencia en soporte de telecomunicaciones, diagnóstico, seguimiento de incidentes y escalamiento bajo SLA.
 
-**Disponibilidad para viajar y relocalizarme en CABA · Trabajo presencial o híbrido.**
+**Trabajo remoto · Disponibilidad para relocalizarme en CABA para modalidad híbrida.**
 Residencia actual: Tafí Viejo, Tucumán, Argentina.
 
-[Portfolio](https://dante2617012022.github.io/portfolio-web/) · [Solicitar CV por email](mailto:dantebalbuenaatar@gmail.com?subject=Solicitud%20de%20CV%20SOC%20Junior) · [LinkedIn](https://www.linkedin.com/in/dante-gabriel-balbuena-179963235/)
+[Mini-SOC Lab](https://github.com/Dante2617012022/mini-soc-lab) · [Portfolio](https://dante2617012022.github.io/portfolio-web/) · [Solicitar CV por email](mailto:dantebalbuenaatar@gmail.com?subject=Solicitud%20de%20CV%20SOC%20Junior) · [LinkedIn](https://www.linkedin.com/in/dante-gabriel-balbuena-179963235/)
 
 ## Objetivo profesional
 
